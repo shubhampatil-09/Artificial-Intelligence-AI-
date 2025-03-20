@@ -1,3 +1,4 @@
+//To implement DFS traversal using Goal Search (Any paths) //
 tree = { 
      
 	'A' : ['B','C'], 
