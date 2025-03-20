@@ -1,4 +1,4 @@
- 
+ // To implement BFS traversal using Goal Search //
 tree = { 
      'A' : ['B','C'], 
      'B' : ['D','E'], 
